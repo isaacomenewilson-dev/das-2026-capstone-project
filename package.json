@@ -1,0 +1,12 @@
+{
+  "name": "das-2026-capstone-project",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "node demo.js",
+    "demo:search": "node demo-search.js",
+    "benchmark": "node benchmark.js",
+    "test": "node --test"
+  }
+}
